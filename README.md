@@ -1,13 +1,13 @@
 ## Example 00:
 ```
-$>./my_christmas_tree 0
+$>./christmas_tree 0
 $>
 ```
 
 
 ## Example 01:
 ```
-$>./my_christmas_tree 1
+$>./christmas_tree 1
    *
   ***
  *****
@@ -20,7 +20,7 @@ $>./my_christmas_tree 1
 
 ## Example 02:
 ```
-$>./my_christmas_tree 5
+$>./christmas_tree 5
                    *
                   ***
                  *****
